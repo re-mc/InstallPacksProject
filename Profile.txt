@@ -1,0 +1,10 @@
+"767cc55bfe16f1afddec1f367880b3b6" : {
+      "created" : "2020-12-17T19:04:16.870Z",
+      "gameDir" : "C:\\Users\\Public\\Documents\\Minecraft\\ReadyShaders1-16-4",
+      "icon" : "Lectern_Book",
+      "javaArgs" : "-Xmx2G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M",
+      "lastUsed" : "2020-12-21T23:49:16.318Z",
+      "lastVersionId" : "1.16.4-OptiFine_HD_U_G5",
+      "name" : "Shaders",
+      "type" : "custom"
+    },
